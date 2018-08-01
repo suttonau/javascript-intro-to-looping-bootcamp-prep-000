@@ -9,4 +9,6 @@ function forLoop(aray) {
   return aray
 }
 
-function whileLoop()
+function whileLoop(num) {
+  
+}
