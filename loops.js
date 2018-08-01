@@ -16,6 +16,6 @@ function whileLoop(num) {
   return 'done';
 }
 
-function doWhileLoop(aray) {
+function doWhileLoop(arry) {
   
 }
