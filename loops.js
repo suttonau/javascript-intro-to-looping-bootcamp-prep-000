@@ -10,5 +10,5 @@ function forLoop(aray) {
 }
 
 function whileLoop(num) {
-  while(num < 100)
+  while(num > 0 )
 }
